@@ -11,9 +11,8 @@ body {
     height: auto;
     width: max-content;
     padding: 1rem;
-    background-color: #fff;
     margin: 1rem auto;
-    
+    background-color: #fff;
 }
 
 @media screen and (min-width: 992px){
